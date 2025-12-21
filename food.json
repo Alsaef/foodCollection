@@ -1,0 +1,112 @@
+[
+    {
+      "idMeal": "52771",
+      "strMeal": "Spicy Arrabiata Penne",
+      "strCategory": "Vegetarian",
+      "strArea": "Italian",
+      "priceBDT": "450",
+      "strInstructions": "Bring a large pot of water to a boil. Add penne pasta to the boiling water and cook according to package instructions...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/ustsqw1468250014.jpg",
+      "strIngredient1": "penne rigate",
+      "strMeasure1": "1 pound"
+    },
+    {
+      "idMeal": "52806",
+      "strMeal": "Tandoori Chicken",
+      "strCategory": "Chicken",
+      "strArea": "Indian",
+      "priceBDT": "650",
+      "strInstructions": "Mix the yogurt, lemon juice, and spices in a bowl. Add the chicken and coat well...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/qptpvt1487339357.jpg",
+      "strIngredient1": "Chicken Thighs",
+      "strMeasure1": "4"
+    },
+    {
+      "idMeal": "52844",
+      "strMeal": "Lasagne",
+      "strCategory": "Beef",
+      "strArea": "Italian",
+      "priceBDT": "850",
+      "strInstructions": "Heat the oil in a large saucepan. Use a high heat and brown the mince for 5-7 mins...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/wlswru1511891152.jpg",
+      "strIngredient1": "Chopped Tomatoes",
+      "strMeasure1": "800g"
+    },
+    {
+      "idMeal": "52815",
+      "strMeal": "French Onion Soup",
+      "strCategory": "Side",
+      "strArea": "French",
+      "priceBDT": "300",
+      "strInstructions": "Melt butter in a large saucepan. Add onions and cook until golden brown...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/x0ak931587659422.jpg",
+      "strIngredient1": "Butter",
+      "strMeasure1": "50g"
+    },
+    {
+      "idMeal": "52887",
+      "strMeal": "Kedgeree",
+      "strCategory": "Seafood",
+      "strArea": "British",
+      "priceBDT": "700",
+      "strInstructions": "Place the smoked haddock in a large pan and cover with water. Bring to a simmer...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/utxqpt1511639216.jpg",
+      "strIngredient1": "Smoked Haddock",
+      "strMeasure1": "300g"
+    },
+    {
+      "idMeal": "52906",
+      "strMeal": "Flamiche",
+      "strCategory": "Vegetarian",
+      "strArea": "French",
+      "priceBDT": "400",
+      "strInstructions": "Preheat oven to 200C. Roll out the pastry and line a tart tin...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/v2yz711581014467.jpg",
+      "strIngredient1": "Pastry",
+      "strMeasure1": "250g"
+    },
+    {
+      "idMeal": "52980",
+      "strMeal": "Stovetop Apple Pie",
+      "strCategory": "Dessert",
+      "strArea": "American",
+      "priceBDT": "350",
+      "strInstructions": "Peel and slice the apples. Cook in a skillet with butter and sugar...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/6579021585915238.jpg",
+      "strIngredient1": "Apples",
+      "strMeasure1": "4 large"
+    },
+    {
+      "idMeal": "53006",
+      "strMeal": "Laksa King Prawn Noodles",
+      "strCategory": "Seafood",
+      "strArea": "Malaysian",
+      "priceBDT": "950",
+      "strInstructions": "Heat the laksa paste in a large wok. Add the prawns and cook until pink...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/rvypwy1503069303.jpg",
+      "strIngredient1": "King Prawns",
+      "strMeasure1": "200g"
+    },
+    {
+      "idMeal": "53013",
+      "strMeal": "Big Mac",
+      "strCategory": "Beef",
+      "strArea": "American",
+      "priceBDT": "550",
+      "strInstructions": "Form the mince into thin patties. Grill until cooked through...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/urzj1d1587670726.jpg",
+      "strIngredient1": "Minced Beef",
+      "strMeasure1": "400g"
+    },
+    {
+      "idMeal": "53026",
+      "strMeal": "Trieze Desserts",
+      "strCategory": "Dessert",
+      "strArea": "French",
+      "priceBDT": "1200",
+      "strInstructions": "This is a traditional Provencal Christmas tradition involving 13 different items...",
+      "strMealThumb": "https://www.themealdb.com/images/media/meals/6770401641314643.jpg",
+      "strIngredient1": "Almonds",
+      "strMeasure1": "100g"
+    }
+  ]
